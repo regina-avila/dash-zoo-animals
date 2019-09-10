@@ -7,9 +7,9 @@ import plotly.graph_objs as go
 tabtitle='zoo'
 myheading = 'Animals in the Zoo'
 myfavoritecolor='#C74A2F' # More colors are here: https://htmlcolorcodes.com/
-x_list=['giraffes', 'elephants', 'monkeys']
-y_list=[5, 2, 7]
-mytitle='My favorite animals'
+x_list=['sea turtles','giraffes', 'elephants', 'monkeys']
+y_list=[5, 5, 2, 7]
+mytitle='My favorite animals, mostly'
 githublink='https://github.com/austinlasseter/zoo-animals-dash'
 
 ########### Set up the chart
