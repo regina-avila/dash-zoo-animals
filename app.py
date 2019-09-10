@@ -5,8 +5,8 @@ import plotly.graph_objs as go
 
 ########### Pick variables
 tabtitle='zoo'
-myheading = 'Animals in the Zoo'
-myfavoritecolor='#C74A2F' # More colors are here: https://htmlcolorcodes.com/
+myheading = 'Four Animals Possibly in the Zoo'
+myfavoritecolor='#3CFF33' # More colors are here: https://htmlcolorcodes.com/
 x_list=['sea turtles','giraffes', 'elephants', 'monkeys']
 y_list=[5, 5, 2, 7]
 mytitle='My favorite animals, mostly'
